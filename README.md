@@ -1,1 +1,1 @@
-# Responsice-Movie-Website
+# Responsive-Movie-Website
