@@ -90,6 +90,7 @@ Contributions are greatly appreciated! To contribute to this project, please fol
    ```bash
    git push origin feature/YourFeature
    ```
+5. Create a pull request detailing your changes for review.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 ## Contact Information
